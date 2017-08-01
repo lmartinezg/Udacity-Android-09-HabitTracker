@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+
+    <string name="type_outdoor">Outdoor Activities</string>
+    <string name="type_food">Food</string>
+    <string name="type_drink">Drink</string>
+    <string name="type_rest">Rest</string>
+    <string name="type_sports">Sports</string>
+
+    <string name="period_hourly">Hourly</string>
+    <string name="period_daily">Daily</string>
+    <string name="period_weekly">Weekly</string>
+    <string name="period_monthly">Monthly</string>
+
+    <string name="error_saving">Error saving a new habit</string>
+    <string name="habit_saved">New habit saved with id: %d</string>
+    <string name="entry_eat_fruit">Eat fruit and vegetables</string>
+    <string name="entry_sleep_eight">Sleep eight hours</string>
+    <string name="entry_train_swimming">Train swimming</string>
+    <string name="entry_train_spinning">Train spinning</string>
+    <string name="go_running">Go running</string>
+    <string name="inserting_one_row">Inserting one row.</string>
+    <string name="printing_all_start">Printing all records. Start.</string>
+    <string name="printing_all_end">Printing all records. End.</string>
+</resources>
